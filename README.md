@@ -1,7 +1,7 @@
 - 👋 Hi, we are @schumikaa
 - 👀 We like building things
 - 🌱 We build Web Applications, Desktop Applications and Project Management Tools
-- 💞️ I’m looking to collaborate on ...
+- 💞️ We are also looking to collaborate on anything codable and fun
 - 📫 How to reach me: Text, Call or Whatsapp +256 789 186 327
 - ⚡ Fun fact: Wow! It works - on my computer though.
 
